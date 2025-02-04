@@ -1,0 +1,1 @@
+cv.imshow("Soseo Grayscale", citra_grayscale)
